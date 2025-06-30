@@ -20,7 +20,9 @@ public class WebAutomation {
 			System.out.println("TC Passed");
 		}else {
 			System.out.println("TC failed");
+			
 		}
+		     System.out.println("Build Succesfully run");
 		
 		driver.close();
 		
